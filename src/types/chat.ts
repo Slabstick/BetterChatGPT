@@ -51,6 +51,7 @@ export interface Folder {
 
 export type ModelOptions =
   | 'gpt-4'
+  | 'gpt-4o'
   | 'gpt-4-32k'
   | 'gpt-4-1106-preview'
   | 'gpt-4-0125-preview'
